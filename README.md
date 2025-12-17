@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-flux-labs/assets/main/flux_logo_gradient.svg" alt="Flux Logo" width="128">
+  <img src="https://raw.githubusercontent.com/the-flux-labs/.github/main/FLUXIcon.svg" alt="Flux Logo" width="128">
 </p>
 
 <h1 align="center">FLUX Core</h1>
