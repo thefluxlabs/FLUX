@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/the-flux-labs/FLUX/releases/latest"><img src="https://img.shields.io/github/v/release/the-flux-labs/FLUX?style=for-the-badge&label=Версия&color=FF512F" alt="Версия"></a>
-    <a href="https://github.com/the-flux-labs/FLUX/releases"><img src="https://img.shields.io/github/downloads/the-flux-labs/FLUX/total?style=for-the-badge&label=Скачиваний&color=F09819" alt="Скачиваний"></a>
+    <a href="https://github.com/the-flux-labs/FLUX/releases"><img src="https://img.shields.io/badge/Скачать-последнюю_версию-F09819?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать"></a>
     <a href="[ССЫЛКА НА TELEGRAM]"><img src="https://img.shields.io/badge/Telegram-Наше_сообщество-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <img src="https://img.shields.io/badge/Platform-Windows_10_|_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/Платформа-Windows_|_Linux_|_Android-FF512F?style=for-the-badge&logo=windows&logoColor=white" alt="Платформы">
 </p>
 
 <p align="center">
