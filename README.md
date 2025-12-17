@@ -2,7 +2,7 @@
   <img src="https://github.com/thefluxlabs/.github/raw/refs/heads/main/assets/FLUXIcon.svg" alt="Flux Logo" width="128">
 </p>
 
-<h1 align="center">FLUX Core</h1>
+<h1 align="center">FLUX</h1>
 
 <p align="center">
   Ультимативный центр управления вашей ОС для оптимизации, очистки и кастомизации.
