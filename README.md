@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/the-flux-labs/FLUX/releases"><img src="https://img.shields.io/badge/Скачать-последнюю_версию-F09819?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать"></a>
+    <a href="https://github.com/thefluxlabs/FLUX/releases"><img src="https://img.shields.io/badge/Скачать-последнюю_версию-F09819?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать"></a>
     <a href="[ССЫЛКА НА TELEGRAM]"><img src="https://img.shields.io/badge/Telegram-Наше_сообщество-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <img src="https://img.shields.io/badge/Платформа-Windows_|_Linux_|_Android-FF512F?style=for-the-badge&logo=windows&logoColor=white" alt="Платформы">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-flux-labs/.github/main/assets/flux-showcase.gif" alt="FLUX Showcase">
+  <img src="https://raw.githubusercontent.com/thefluxlabs/.github/main/assets/flux-showcase.gif" alt="FLUX Showcase">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 Вы можете установить FLUX двумя способами:
 
 **1. Скачать с GitHub (Рекомендуется):**
-   - Перейдите на страницу **[последнего релиза](https://github.com/the-flux-labs/FLUX/releases/latest)**.
+   - Перейдите на страницу **[последнего релиза](https://github.com/thefluxlabs/FLUX/releases/latest)**.
    - Скачайте `FLUX_Setup.exe`.
    - Запустите установщик.
 
@@ -55,7 +55,7 @@
 ### 🤝 Как внести свой вклад
 
 Мы всегда рады помощи! Если вы хотите улучшить проект:
--   **Сообщите об ошибке:** Создайте [Issue](https://github.com/the-flux-labs/FLUX/issues), если нашли баг.
+-   **Сообщите об ошибке:** Создайте [Issue](https://github.com/thefluxlabs/FLUX/issues), если нашли баг.
 -   **Сделайте Pull Request:** Если вы исправили баг или реализовали новую функцию, мы с радостью рассмотрим ваш код.
 
 Пожалуйста, ознакомьтесь с `CONTRIBUTING.md` перед началом работы.
