@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/thefluxlabs/FLUX/releases"><img src="https://img.shields.io/badge/Скачать-последнюю_версию-F09819?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать"></a>
-    <a href="[ССЫЛКА НА TELEGRAM]"><img src="https://img.shields.io/badge/Telegram-Наше_сообщество-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/thefluxlabs"><img src="https://img.shields.io/badge/Telegram-Наше_сообщество-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <img src="https://img.shields.io/badge/Платформа-Windows_|_Linux_|_Android-FF512F?style=for-the-badge&logo=windows&logoColor=white" alt="Платформы">
 </p>
 
